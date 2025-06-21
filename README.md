@@ -3,6 +3,7 @@ Auto generates LODs for the selected object, and parents the generated LODs into
 
 ![alt text](https://github.com/Aelstraz/Blender-AutoLOD/blob/main/Screenshot.png?raw=true)
 ![alt text](https://github.com/Aelstraz/Blender-AutoLOD/blob/main/Screenshot%201.png?raw=true)
+![alt text](https://github.com/Aelstraz/Blender-AutoLOD/blob/main/Screenshot%202.png?raw=true)
 
 ### INSTALLATION:
 Simply download the python file (.py) and add it through Blender -> Edit -> Preferences -> Add-ons -> Install from Disk.
