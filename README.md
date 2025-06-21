@@ -1,5 +1,5 @@
 # Blender AutoLOD
-Auto generates LODs for the selected object, and parents the generated LODs into a LOD Group with a single button (the original object is set as '_LOD0' in the hierarchy).
+Auto generates LODs for the selected object, and parents the generated LODs into a LOD Group with a single button. The object hierarcy is setup so that external importers will automatically recognize the object as an LOD group (the original object is set as '_LOD0' in the hierarchy).
 
 ![alt text](https://github.com/Aelstraz/Blender-AutoLOD/blob/main/Screenshot.png?raw=true)
 ![alt text](https://github.com/Aelstraz/Blender-AutoLOD/blob/main/Screenshot%201.png?raw=true)
